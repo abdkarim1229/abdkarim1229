@@ -1,1 +1,1 @@
-- Hi 👋 , I’m Abdul Karim, I`am a student at University of Nurul Jadid
+- Hi 👋 , I’m Abdul Karim, I`am a student at the University of Nurul Jadid
