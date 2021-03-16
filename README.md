@@ -1,1 +1,3 @@
-- Hi 👋 , I’m Abdul Karim, I`am a student at the University of Nurul Jadid
+- Hi 👋, I am Abdul Karim, I studied at Nurul Jadid University, majoring in Informatics.
+- 
+- Nice to meet you ..
